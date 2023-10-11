@@ -26,7 +26,7 @@ html, body {
     width: 60%;
     background-color: #bea5ab;
     height: 100%;
-    background-image: url(/ayo-ogunseinde-6W4F62sN_yI-unsplash.jpg);
+    background-image: url(./ayo-ogunseinde-6W4F62sN_yI-unsplash.jpg);
     background-size: cover;
     background-position: center;
     
@@ -63,7 +63,7 @@ html, body {
 #small-image {
     height: 300px;
     width: 250px;
-    background-image: url(/michael-dam-mEZ3PoFGs_k-unsplash.jpg);
+    background-image: url(./michael-dam-mEZ3PoFGs_k-unsplash.jpg);
     background-size: cover;
     background-position: center;
     position: absolute;
